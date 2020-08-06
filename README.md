@@ -1,4 +1,4 @@
-# Departmental-Store-Project-C++
+# Departmental Store Project C++
 
 ## A program which facilitates the customer as well as the owner’s needs in a Departmental Store by using data filing (file handling) in C++. 
 - The user can search and buy items while the owner can easily add or delete items from the inventory.  
